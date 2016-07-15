@@ -18,7 +18,7 @@ public class LeArquivoXMLDeOutraForma {
 		InputSource is = new InputSource(ips);
 		leitor.parse(is);
 		
-		
+		System.out.println(logica.produtos);
 	}
 
 }
