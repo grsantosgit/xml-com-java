@@ -37,6 +37,7 @@ public class Sistema {
 			Produto prod = new Produto(nome, preco);
 
 			System.out.println(prod);
+			
 		}
 		
 	}
